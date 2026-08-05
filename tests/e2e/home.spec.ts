@@ -1,4 +1,6 @@
 import { expect, test } from "@playwright/test";
+import { tmpdir } from "node:os";
+import { join } from "node:path";
 
 test("homepage renders without runtime errors or horizontal overflow", async ({ page }, testInfo) => {
   const consoleErrors: string[] = [];
@@ -18,8 +20,8 @@ test("homepage renders without runtime errors or horizontal overflow", async ({ 
   expect(consoleErrors).toEqual([]);
 
   const screenshotPath = testInfo.project.name.startsWith("mobile")
-    ? "/private/tmp/comwerkz-mobile-latest.png"
-    : "/private/tmp/comwerkz-desktop-latest.png";
+    ? join(tmpdir(), "comwerkz-mobile-latest.png")
+    : join(tmpdir(), "comwerkz-desktop-latest.png");
   await page.screenshot({ path: screenshotPath, fullPage: true });
 });
 
