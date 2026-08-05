@@ -1,0 +1,188 @@
+{"kind":"deck","id":"pr/s4nkpm","name":"Deck"}
+{"kind":"layout","layoutId":"907de088-fae8-49ac-8988-b8681080ccf3","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"664685a2-3866-4b18-a322-d3a8e969dbdf","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/bnubtp","slide":1,"title":"COMWERKZ","textShapes":7}
+{"kind":"shape","id":"sh/0rqd4vmt","slide":1,"bbox":[0,0,690,720]}
+{"kind":"textbox","id":"sh/tcj6tova","slide":1,"name":"brand","text":"COMWERKZ","textPreview":"COMWERKZ","textChars":8,"textLines":1,"bbox":[76,62,310,38]}
+{"kind":"textbox","id":"sh/idonyd0z","slide":1,"text":"TECHNOLOGY P.L.","textPreview":"TECHNOLOGY P.L.","textChars":15,"textLines":1,"bbox":[79,101,240,18]}
+{"kind":"shape","id":"sh/byhgn29g","slide":1,"bbox":[76,178,84,4]}
+{"kind":"textbox","id":"sh/0je9cvix","slide":1,"name":"title","text":"Website Build\nProposal","textPreview":"Website Build | Proposal","textChars":22,"textLines":2,"bbox":[76,208,530,152]}
+{"kind":"textbox","id":"sh/t47y1kre","slide":1,"text":"A modern, mobile-first digital presence for Singapore’s connected businesses.","textPreview":"A modern, mobile-first digital presence for Singapore’s connected businesses.","textChars":77,"textLines":1,"bbox":[76,392,470,74]}
+{"kind":"textbox","id":"sh/i9s36hcr","slide":1,"text":"INTERNAL LEADERSHIP APPROVAL  •  JULY 2026","textPreview":"INTERNAL LEADERSHIP APPROVAL  •  JULY 2026","textChars":42,"textLines":1,"bbox":[76,600,470,22]}
+{"kind":"shape","id":"sh/bulwval8","slide":1,"bbox":[76,678,1128,1]}
+{"kind":"textbox","id":"sh/j6tovaho","slide":1,"text":"COMWERKZ  |  WEBSITE BUILD PROPOSAL","textPreview":"COMWERKZ  |  WEBSITE BUILD PROPOSAL","textChars":35,"textLines":1,"bbox":[76,690,360,18]}
+{"kind":"textbox","id":"sh/ulwval87","slide":1,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[1164,688,40,18]}
+{"kind":"image","id":"im/yxobm58z","slide":1,"name":"","geometry":"roundRect","alt":"Comwerkz website hero concept","bbox":[640,0,640,720]}
+{"kind":"notes","id":"nt/bnubtp","slide":1,"text":""}
+{"kind":"slide","id":"sl/evhzxj","slide":2,"title":"THE OPPORTUNITY","textShapes":15}
+{"kind":"textbox","id":"sh/vahoza1g","slide":2,"name":"kicker","text":"THE OPPORTUNITY","textPreview":"THE OPPORTUNITY","textChars":15,"textLines":1,"bbox":[76,56,450,24]}
+{"kind":"shape","id":"sh/ovahoza1","slide":2,"bbox":[76,86,74,3]}
+{"kind":"textbox","id":"sh/dg7adsji","slide":2,"name":"headline","text":"A clearer website turns a broad capability set into qualified enquiries.","textPreview":"A clearer website turns a broad capability set into qualified enquiries.","textChars":72,"textLines":1,"bbox":[76,110,760,114]}
+{"kind":"textbox","id":"sh/6hcrmhk3","slide":2,"name":"subtitle","text":"Comwerkz serves multiple property and business environments. The site must help each audience quickly recognise the relevant solution and take the next step.","textPreview":"Comwerkz serves multiple property and business environments. The site must help each audience quickly recognise the relevant solution and...","textChars":157,"textLines":1,"bbox":[76,238,720,62]}
+{"kind":"shape","id":"sh/z25kb6xk","slide":2,"bbox":[76,378,58,4]}
+{"kind":"textbox","id":"sh/onyd0z61","slide":2,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[76,408,50,24]}
+{"kind":"textbox","id":"sh/d8v6psfi","slide":2,"text":"Clarify the offer","textPreview":"Clarify the offer","textChars":17,"textLines":1,"bbox":[76,443,260,54]}
+{"kind":"textbox","id":"sh/6dcbulwv","slide":2,"text":"Group infrastructure, AI, security, energy and robotics into a simple, credible story.","textPreview":"Group infrastructure, AI, security, energy and robotics into a simple, credible story.","textChars":86,"textLines":1,"bbox":[76,516,266,80]}
+{"kind":"shape","id":"sh/vy90je9c","slide":2,"bbox":[410,378,58,4]}
+{"kind":"textbox","id":"sh/nuxc3ylc","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[410,408,50,24]}
+{"kind":"textbox","id":"sh/y90je9cv","slide":2,"text":"Serve priority buyers","textPreview":"Serve priority buyers","textChars":21,"textLines":1,"bbox":[410,443,260,54]}
+{"kind":"textbox","id":"sh/5wjudg7a","slide":2,"text":"Speak directly to SMEs, facilities, developers, MCSTs and homeowners.","textPreview":"Speak directly to SMEs, facilities, developers, MCSTs and homeowners.","textChars":69,"textLines":1,"bbox":[410,516,266,80]}
+{"kind":"shape","id":"sh/gbq1oryt","slide":2,"bbox":[744,378,58,4]}
+{"kind":"textbox","id":"sh/n29gr2p8","slide":2,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[744,408,50,24]}
+{"kind":"textbox","id":"sh/yhgn29gr","slide":2,"text":"Make contact effortless","textPreview":"Make contact effortless","textChars":23,"textLines":1,"bbox":[744,443,260,54]}
+{"kind":"textbox","id":"sh/58z25kb6","slide":2,"text":"Guide every visitor to a site survey, phone call, email or preferred message channel.","textPreview":"Guide every visitor to a site survey, phone call, email or preferred message channel.","textChars":85,"textLines":1,"bbox":[744,516,266,80]}
+{"kind":"shape","id":"sh/gn29gr2p","slide":2,"bbox":[76,624,1128,2]}
+{"kind":"textbox","id":"sh/neloj2t8","slide":2,"text":"Priority audiences: SMEs • Commercial buildings • Retail • Factories & warehouses • Hotels & schools • Developers & MCST • Landed homes","textPreview":"Priority audiences: SMEs • Commercial buildings • Retail • Factories & warehouses • Hotels & schools • Developers & MCST • Landed homes","textChars":135,"textLines":1,"bbox":[76,638,1100,24]}
+{"kind":"shape","id":"sh/ytsvu9kn","slide":2,"bbox":[76,678,1128,1]}
+{"kind":"textbox","id":"sh/2x4nap4r","slide":2,"text":"COMWERKZ  |  WEBSITE BUILD PROPOSAL","textPreview":"COMWERKZ  |  WEBSITE BUILD PROPOSAL","textChars":35,"textLines":1,"bbox":[76,690,360,18]}
+{"kind":"textbox","id":"sh/vixczed8","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1164,688,40,18]}
+{"kind":"notes","id":"nt/evhzxj","slide":2,"text":""}
+{"kind":"slide","id":"sl/59v73p","slide":3,"title":"THE PROPOSED EXPERIENCE","textShapes":14}
+{"kind":"textbox","id":"sh/87ed8bat","slide":3,"name":"kicker","text":"THE PROPOSED EXPERIENCE","textPreview":"THE PROPOSED EXPERIENCE","textChars":23,"textLines":1,"bbox":[76,56,450,24]}
+{"kind":"shape","id":"sh/fmlkjm1c","slide":3,"bbox":[76,86,74,3]}
+{"kind":"textbox","id":"sh/q1orytsv","slide":3,"name":"headline","text":"One focused page. One clear path to enquiry.","textPreview":"One focused page. One clear path to enquiry.","textChars":44,"textLines":1,"bbox":[76,110,520,114]}
+{"kind":"textbox","id":"sh/1gvy90je","slide":3,"name":"subtitle","text":"The information architecture moves visitors from relevance to confidence, then puts the right contact action within reach.","textPreview":"The information architecture moves visitors from relevance to confidence, then puts the right contact action within reach.","textChars":122,"textLines":1,"bbox":[76,238,520,62]}
+{"kind":"textbox","id":"sh/je9cvixc","slide":3,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[76,350,42,28]}
+{"kind":"textbox","id":"sh/qtcj6tov","slide":3,"text":"Lead with the business outcome","textPreview":"Lead with the business outcome","textChars":30,"textLines":1,"bbox":[128,348,428,30]}
+{"kind":"textbox","id":"sh/xczed8v6","slide":3,"text":"Network, automation, security and energy work together to keep operations moving.","textPreview":"Network, automation, security and energy work together to keep operations moving.","textChars":81,"textLines":1,"bbox":[128,386,428,54]}
+{"kind":"textbox","id":"sh/8v6psfil","slide":3,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[76,466,42,28]}
+{"kind":"textbox","id":"sh/yhgn29gr","slide":3,"text":"Show solutions in context","textPreview":"Show solutions in context","textChars":25,"textLines":1,"bbox":[128,464,428,30]}
+{"kind":"textbox","id":"sh/n29gr2p8","slide":3,"text":"Use direct pathways for the five service pillars and the industries they support.","textPreview":"Use direct pathways for the five service pillars and the industries they support.","textChars":81,"textLines":1,"bbox":[128,502,428,54]}
+{"kind":"textbox","id":"sh/gn29gr2p","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[76,582,42,28]}
+{"kind":"textbox","id":"sh/58z25kb6","slide":3,"text":"Convert with low-friction actions","textPreview":"Convert with low-friction actions","textChars":33,"textLines":1,"bbox":[128,580,428,30]}
+{"kind":"textbox","id":"sh/y90je9cv","slide":3,"text":"Site survey, call, email and message actions remain visible on every device.","textPreview":"Site survey, call, email and message actions remain visible on every device.","textChars":76,"textLines":1,"bbox":[128,618,428,54]}
+{"kind":"shape","id":"sh/nuxc3ylc","slide":3,"bbox":[76,678,1128,1]}
+{"kind":"textbox","id":"sh/gbq1oryt","slide":3,"text":"COMWERKZ  |  WEBSITE BUILD PROPOSAL","textPreview":"COMWERKZ  |  WEBSITE BUILD PROPOSAL","textChars":35,"textLines":1,"bbox":[76,690,360,18]}
+{"kind":"textbox","id":"sh/5wjudg7a","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1164,688,40,18]}
+{"kind":"image","id":"im/d8v6psfi","slide":3,"name":"","geometry":"roundRect","alt":"Desktop hero concept for the proposed Comwerkz website","bbox":[662,62,542,504]}
+{"kind":"notes","id":"nt/59v73p","slide":3,"text":""}
+{"kind":"slide","id":"sl/jpyvlh","slide":4,"title":"SOLUTIONS CUSTOMERS CAN UNDERSTAND","textShapes":20}
+{"kind":"textbox","id":"sh/psfil0rq","slide":4,"name":"kicker","text":"SOLUTIONS CUSTOMERS CAN UNDERSTAND","textPreview":"SOLUTIONS CUSTOMERS CAN UNDERSTAND","textChars":34,"textLines":1,"bbox":[76,56,450,24]}
+{"kind":"shape","id":"sh/e1w7mp0b","slide":4,"bbox":[76,86,74,3]}
+{"kind":"textbox","id":"sh/7mp0bi9s","slide":4,"name":"headline","text":"Five integrated offerings, organised around practical business needs.","textPreview":"Five integrated offerings, organised around practical business needs.","textChars":69,"textLines":1,"bbox":[76,110,560,126]}
+{"kind":"textbox","id":"sh/wval87ed","slide":4,"name":"subtitle","text":"The website presents each area without requiring visitors to understand the underlying technology first.","textPreview":"The website presents each area without requiring visitors to understand the underlying technology first.","textChars":104,"textLines":1,"bbox":[76,252,560,62]}
+{"kind":"textbox","id":"sh/epkzupwb","slide":4,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[76,333,30,20]}
+{"kind":"textbox","id":"sh/7adsji5s","slide":4,"text":"Enterprise Network Infrastructure","textPreview":"Enterprise Network Infrastructure","textChars":33,"textLines":1,"bbox":[120,332,418,22]}
+{"kind":"textbox","id":"sh/wra5gbq1","slide":4,"text":"Cabling, fibre, Wi-Fi, racks and network rollout.","textPreview":"Cabling, fibre, Wi-Fi, racks and network rollout.","textChars":49,"textLines":1,"bbox":[120,357,480,20]}
+{"kind":"textbox","id":"sh/lc7u54zi","slide":4,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[76,391,30,20]}
+{"kind":"textbox","id":"sh/9w3m94fu","slide":4,"text":"AI Consulting for SMEs","textPreview":"AI Consulting for SMEs","textChars":22,"textLines":1,"bbox":[120,390,418,22]}
+{"kind":"textbox","id":"sh/kb6xkf6d","slide":4,"text":"Agents, automation, chatbots, RAG and knowledge workflows.","textPreview":"Agents, automation, chatbots, RAG and knowledge workflows.","textChars":58,"textLines":1,"bbox":[120,415,480,20]}
+{"kind":"textbox","id":"sh/rqd4vmtw","slide":4,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[76,449,30,20]}
+{"kind":"textbox","id":"sh/25kb6xkf","slide":4,"text":"Smart Security & Building","textPreview":"Smart Security & Building","textChars":25,"textLines":1,"bbox":[120,448,418,22]}
+{"kind":"textbox","id":"sh/9knih4by","slide":4,"text":"Access control, visitor management, CCTV and monitoring.","textPreview":"Access control, visitor management, CCTV and monitoring.","textChars":56,"textLines":1,"bbox":[120,473,480,20]}
+{"kind":"textbox","id":"sh/kzupwb2h","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[76,507,30,20]}
+{"kind":"textbox","id":"sh/re1w7mp0","slide":4,"text":"Smart Energy Solutions","textPreview":"Smart Energy Solutions","textChars":22,"textLines":1,"bbox":[120,506,418,22]}
+{"kind":"textbox","id":"sh/2t83itgf","slide":4,"text":"EV charging, solar and energy monitoring.","textPreview":"EV charging, solar and energy monitoring.","textChars":41,"textLines":1,"bbox":[120,531,480,20]}
+{"kind":"textbox","id":"sh/9gr2p8nq","slide":4,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[76,565,30,20]}
+{"kind":"textbox","id":"sh/gvy90je9","slide":4,"text":"Autonomous Robotics","textPreview":"Autonomous Robotics","textChars":19,"textLines":1,"bbox":[120,564,418,22]}
+{"kind":"textbox","id":"sh/wra5gbq1","slide":4,"text":"Commercial cleaning and facility automation.","textPreview":"Commercial cleaning and facility automation.","textChars":44,"textLines":1,"bbox":[120,589,480,20]}
+{"kind":"shape","id":"sh/lc7u54zi","slide":4,"bbox":[76,678,1128,1]}
+{"kind":"textbox","id":"sh/eloj2t83","slide":4,"text":"COMWERKZ  |  WEBSITE BUILD PROPOSAL","textPreview":"COMWERKZ  |  WEBSITE BUILD PROPOSAL","textChars":35,"textLines":1,"bbox":[76,690,360,18]}
+{"kind":"textbox","id":"sh/36hcrmhk","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1164,688,40,18]}
+{"kind":"image","id":"im/czed8v6p","slide":4,"name":"","geometry":"roundRect","alt":"Solutions concept showing five Comwerkz service themes","bbox":[716,72,488,540]}
+{"kind":"notes","id":"nt/jpyvlh","slide":4,"text":""}
+{"kind":"slide","id":"sl/2bh4gy","slide":5,"title":"BUILT FOR THE PLACES SINGAPORE WORKS.","textShapes":19}
+{"kind":"textbox","id":"sh/qh0fepkz","slide":5,"name":"kicker","text":"BUILT FOR THE PLACES SINGAPORE WORKS.","textPreview":"BUILT FOR THE PLACES SINGAPORE WORKS.","textChars":37,"textLines":1,"bbox":[76,56,450,24]}
+{"kind":"shape","id":"sh/18jqh0fe","slide":5,"bbox":[76,86,74,3]}
+{"kind":"textbox","id":"sh/8nqxs72x","slide":5,"name":"headline","text":"Every audience sees a relevant starting point.","textPreview":"Every audience sees a relevant starting point.","textChars":46,"textLines":1,"bbox":[76,110,520,114]}
+{"kind":"textbox","id":"sh/jqh0fepk","slide":5,"name":"subtitle","text":"The industry section translates Comwerkz’s technical scope into the physical spaces and operating needs customers recognise.","textPreview":"The industry section translates Comwerkz’s technical scope into the physical spaces and operating needs customers recognise.","textChars":124,"textLines":1,"bbox":[76,238,520,62]}
+{"kind":"textbox","id":"sh/1w7mp0bi","slide":5,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[76,340,36,20]}
+{"kind":"textbox","id":"sh/8bat47y1","slide":5,"text":"SMEs","textPreview":"SMEs","textChars":4,"textLines":1,"bbox":[126,338,360,25]}
+{"kind":"shape","id":"sh/ji5snelo","slide":5,"bbox":[126,369,310,1]}
+{"kind":"textbox","id":"sh/uxc3ylc7","slide":5,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[76,379,36,20]}
+{"kind":"textbox","id":"sh/gn29gr2p","slide":5,"text":"Commercial buildings","textPreview":"Commercial buildings","textChars":20,"textLines":1,"bbox":[126,377,360,25]}
+{"kind":"shape","id":"sh/58z25kb6","slide":5,"bbox":[126,408,310,1]}
+{"kind":"textbox","id":"sh/yhgn29gr","slide":5,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[76,418,36,20]}
+{"kind":"textbox","id":"sh/n29gr2p8","slide":5,"text":"Retail","textPreview":"Retail","textChars":6,"textLines":1,"bbox":[126,416,360,25]}
+{"kind":"shape","id":"sh/gbq1oryt","slide":5,"bbox":[126,447,310,1]}
+{"kind":"textbox","id":"sh/5wjudg7a","slide":5,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[76,457,36,20]}
+{"kind":"textbox","id":"sh/y90je9cv","slide":5,"text":"Factories & warehouses","textPreview":"Factories & warehouses","textChars":22,"textLines":1,"bbox":[126,455,360,25]}
+{"kind":"shape","id":"sh/nuxc3ylc","slide":5,"bbox":[126,486,310,1]}
+{"kind":"textbox","id":"sh/cbulwval","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[76,496,36,20]}
+{"kind":"textbox","id":"sh/5sneloj2","slide":5,"text":"Hotels & schools","textPreview":"Hotels & schools","textChars":16,"textLines":1,"bbox":[126,494,360,25]}
+{"kind":"shape","id":"sh/5o7qpg3e","slide":5,"bbox":[126,525,310,1]}
+{"kind":"textbox","id":"sh/g3ex0nux","slide":5,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[76,535,36,20]}
+{"kind":"textbox","id":"sh/nih4byhg","slide":5,"text":"Property developers & MCST","textPreview":"Property developers & MCST","textChars":26,"textLines":1,"bbox":[126,533,360,25]}
+{"kind":"shape","id":"sh/yxobm58z","slide":5,"bbox":[126,564,310,1]}
+{"kind":"textbox","id":"sh/9cvixcze","slide":5,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[76,574,36,20]}
+{"kind":"textbox","id":"sh/gr2p8nqx","slide":5,"text":"Landed homes","textPreview":"Landed homes","textChars":12,"textLines":1,"bbox":[126,572,360,25]}
+{"kind":"shape","id":"sh/r65wjudg","slide":5,"bbox":[126,603,310,1]}
+{"kind":"shape","id":"sh/ylc7u54z","slide":5,"bbox":[76,678,1128,1]}
+{"kind":"textbox","id":"sh/90je9cvi","slide":5,"text":"COMWERKZ  |  WEBSITE BUILD PROPOSAL","textPreview":"COMWERKZ  |  WEBSITE BUILD PROPOSAL","textChars":35,"textLines":1,"bbox":[76,690,360,18]}
+{"kind":"textbox","id":"sh/gfmlkjm1","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1164,688,40,18]}
+{"kind":"image","id":"im/fa9w3m94","slide":5,"name":"","geometry":"roundRect","alt":"Industries and why choose us concept","bbox":[690,60,514,548]}
+{"kind":"notes","id":"nt/2bh4gy","slide":5,"text":""}
+{"kind":"slide","id":"sl/a2bs1w","slide":6,"title":"TRUST IS DESIGNED INTO EVERY INTERACTION.","textShapes":14}
+{"kind":"textbox","id":"sh/e9cvixcz","slide":6,"name":"kicker","text":"TRUST IS DESIGNED INTO EVERY INTERACTION.","textPreview":"TRUST IS DESIGNED INTO EVERY INTERACTION.","textChars":41,"textLines":1,"bbox":[76,56,450,24]}
+{"kind":"shape","id":"sh/lwval87e","slide":6,"bbox":[76,86,74,3]}
+{"kind":"textbox","id":"sh/wb2hwfyx","slide":6,"name":"headline","text":"Every next step is easy to complete.","textPreview":"Every next step is easy to complete.","textChars":36,"textLines":1,"bbox":[76,110,520,114]}
+{"kind":"textbox","id":"sh/3itgfmlk","slide":6,"name":"subtitle","text":"The experience prioritises clear information, accessible interaction and practical communication pathways.","textPreview":"The experience prioritises clear information, accessible interaction and practical communication pathways.","textChars":106,"textLines":1,"bbox":[76,238,520,62]}
+{"kind":"textbox","id":"sh/loj2t83i","slide":6,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[76,350,42,28]}
+{"kind":"textbox","id":"sh/w3m94fu1","slide":6,"text":"Sticky navigation","textPreview":"Sticky navigation","textChars":17,"textLines":1,"bbox":[128,348,428,30]}
+{"kind":"textbox","id":"sh/3ex0nuxc","slide":6,"text":"Straightforward section links, prominent site-survey CTA and a mobile hamburger menu.","textPreview":"Straightforward section links, prominent site-survey CTA and a mobile hamburger menu.","textChars":85,"textLines":1,"bbox":[128,386,428,54]}
+{"kind":"textbox","id":"sh/at47y1kr","slide":6,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[76,466,42,28]}
+{"kind":"textbox","id":"sh/knih4byh","slide":6,"text":"Enquiry-ready contact","textPreview":"Enquiry-ready contact","textChars":21,"textLines":1,"bbox":[128,464,428,30]}
+{"kind":"textbox","id":"sh/d8bat47y","slide":6,"text":"A concise form, phone and email options, plus floating contact actions.","textPreview":"A concise form, phone and email options, plus floating contact actions.","textChars":71,"textLines":1,"bbox":[128,502,428,54]}
+{"kind":"textbox","id":"sh/2lszqtcj","slide":6,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[76,582,42,28]}
+{"kind":"textbox","id":"sh/v6psfil0","slide":6,"text":"Inclusive by default","textPreview":"Inclusive by default","textChars":20,"textLines":1,"bbox":[128,580,428,30]}
+{"kind":"textbox","id":"sh/kf6dcbul","slide":6,"text":"Large touch targets, responsive layouts, strong contrast and reduced-motion support.","textPreview":"Large touch targets, responsive layouts, strong contrast and reduced-motion support.","textChars":84,"textLines":1,"bbox":[128,618,428,54]}
+{"kind":"shape","id":"sh/d0z61032","slide":6,"bbox":[76,678,1128,1]}
+{"kind":"textbox","id":"sh/29gr2p8n","slide":6,"text":"COMWERKZ  |  WEBSITE BUILD PROPOSAL","textPreview":"COMWERKZ  |  WEBSITE BUILD PROPOSAL","textChars":35,"textLines":1,"bbox":[76,690,360,18]}
+{"kind":"textbox","id":"sh/vu9knih4","slide":6,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1164,688,40,18]}
+{"kind":"image","id":"im/b2hwfyxo","slide":6,"name":"","geometry":"roundRect","alt":"Contact, enquiry form and floating action dock concept","bbox":[664,76,540,504]}
+{"kind":"notes","id":"nt/a2bs1w","slide":6,"text":""}
+{"kind":"slide","id":"sl/xenndq","slide":7,"title":"A PRODUCTION-READY FOUNDATION PROTECTS QUALITY AFTER LAUNCH.","textShapes":15}
+{"kind":"textbox","id":"sh/i5sneloj","slide":7,"name":"kicker","text":"A PRODUCTION-READY FOUNDATION PROTECTS QUALITY AFTER LAUNCH.","textPreview":"A PRODUCTION-READY FOUNDATION PROTECTS QUALITY AFTER LAUNCH.","textChars":60,"textLines":1,"bbox":[76,56,450,24]}
+{"kind":"shape","id":"sh/pwb2hwfy","slide":7,"bbox":[76,86,74,3]}
+{"kind":"textbox","id":"sh/0bi9s36h","slide":7,"name":"headline","text":"Modern web tooling supports speed, discoverability and safe releases.","textPreview":"Modern web tooling supports speed, discoverability and safe releases.","textChars":69,"textLines":1,"bbox":[76,110,760,114]}
+{"kind":"textbox","id":"sh/7y1kre1w","slide":7,"name":"subtitle","text":"The implementation is designed to make future updates routine while preserving performance, accessibility and search readiness.","textPreview":"The implementation is designed to make future updates routine while preserving performance, accessibility and search readiness.","textChars":127,"textLines":1,"bbox":[76,238,720,62]}
+{"kind":"shape","id":"sh/ed8v6psf","slide":7,"bbox":[76,350,56,4]}
+{"kind":"textbox","id":"sh/p4r65wju","slide":7,"text":"Build","textPreview":"Build","textChars":5,"textLines":1,"bbox":[76,382,220,34]}
+{"kind":"textbox","id":"sh/wjudg7ad","slide":7,"text":"Next.js\nReact\nTypeScript","textPreview":"Next.js | React | TypeScript","textChars":24,"textLines":3,"bbox":[76,435,210,86]}
+{"kind":"shape","id":"sh/72x4nap4","slide":7,"bbox":[382,350,56,4]}
+{"kind":"textbox","id":"sh/ih4byhgn","slide":7,"text":"Experience","textPreview":"Experience","textChars":10,"textLines":1,"bbox":[382,382,220,34]}
+{"kind":"textbox","id":"sh/032lszqt","slide":7,"text":"Tailwind CSS\nFramer Motion\nResponsive design","textPreview":"Tailwind CSS | Framer Motion | Responsive design","textChars":44,"textLines":3,"bbox":[382,435,210,86]}
+{"kind":"shape","id":"sh/tovahoza","slide":7,"bbox":[688,350,56,4]}
+{"kind":"textbox","id":"sh/ixczed8v","slide":7,"text":"Growth","textPreview":"Growth","textChars":6,"textLines":1,"bbox":[688,382,220,34]}
+{"kind":"textbox","id":"sh/bi9s36hc","slide":7,"text":"SEO-ready metadata\nAnalytics integration\nOptimised images","textPreview":"SEO-ready metadata | Analytics integration | Optimised images","textChars":57,"textLines":3,"bbox":[688,435,210,86]}
+{"kind":"shape","id":"sh/0fepkzup","slide":7,"bbox":[994,350,56,4]}
+{"kind":"textbox","id":"sh/p0bi9s36","slide":7,"text":"Delivery","textPreview":"Delivery","textChars":8,"textLines":1,"bbox":[994,382,220,34]}
+{"kind":"textbox","id":"sh/i9s36hcr","slide":7,"text":"GitHub workflow\nVercel previews\nApproved production release","textPreview":"GitHub workflow | Vercel previews | Approved production release","textChars":59,"textLines":3,"bbox":[994,435,210,86]}
+{"kind":"shape","id":"sh/bulwval8","slide":7,"bbox":[76,574,1128,66]}
+{"kind":"textbox","id":"sh/0je9cvix","slide":7,"text":"Quality gates","textPreview":"Quality gates","textChars":13,"textLines":1,"bbox":[100,593,160,24]}
+{"kind":"textbox","id":"sh/t47y1kre","slide":7,"text":"Linting  •  Unit tests  •  Build validation  •  Security scanning  •  Performance, accessibility and SEO checks","textPreview":"Linting  •  Unit tests  •  Build validation  •  Security scanning  •  Performance, accessibility and SEO checks","textChars":111,"textLines":1,"bbox":[254,594,900,24]}
+{"kind":"shape","id":"sh/xobm58z2","slide":7,"bbox":[76,678,1128,1]}
+{"kind":"textbox","id":"sh/83itgfml","slide":7,"text":"COMWERKZ  |  WEBSITE BUILD PROPOSAL","textPreview":"COMWERKZ  |  WEBSITE BUILD PROPOSAL","textChars":35,"textLines":1,"bbox":[76,690,360,18]}
+{"kind":"textbox","id":"sh/fil0rqd4","slide":7,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1164,688,40,18]}
+{"kind":"notes","id":"nt/xenndq","slide":7,"text":""}
+{"kind":"slide","id":"sl/ahcz7t","slide":8,"title":"DELIVERY AND APPROVAL","textShapes":21}
+{"kind":"textbox","id":"sh/bi9s36hc","slide":8,"name":"kicker","text":"DELIVERY AND APPROVAL","textPreview":"DELIVERY AND APPROVAL","textChars":21,"textLines":1,"bbox":[76,56,450,24]}
+{"kind":"shape","id":"sh/032lszqt","slide":8,"bbox":[76,86,74,3]}
+{"kind":"textbox","id":"sh/tovahoza","slide":8,"name":"headline","text":"Approve the direction, then build and launch with confidence.","textPreview":"Approve the direction, then build and launch with confidence.","textChars":61,"textLines":1,"bbox":[76,110,760,114]}
+{"kind":"textbox","id":"sh/i9s36hcr","slide":8,"name":"subtitle","text":"The first decision is to approve this direction and start the build with the required contact-channel details.","textPreview":"The first decision is to approve this direction and start the build with the required contact-channel details.","textChars":110,"textLines":1,"bbox":[76,238,720,62]}
+{"kind":"textbox","id":"sh/bulwval8","slide":8,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[76,332,44,24]}
+{"kind":"textbox","id":"sh/0fepkzup","slide":8,"text":"Confirm","textPreview":"Confirm","textChars":7,"textLines":1,"bbox":[140,330,160,28]}
+{"kind":"textbox","id":"sh/p0bi9s36","slide":8,"text":"Approve the visual direction, copy priorities and contact destinations.","textPreview":"Approve the visual direction, copy priorities and contact destinations.","textChars":71,"textLines":1,"bbox":[318,332,534,38]}
+{"kind":"shape","id":"sh/idonyd0z","slide":8,"bbox":[76,384,778,1]}
+{"kind":"textbox","id":"sh/byhgn29g","slide":8,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[76,402,44,24]}
+{"kind":"textbox","id":"sh/ra5gbq1o","slide":8,"text":"Build","textPreview":"Build","textChars":5,"textLines":1,"bbox":[140,400,160,28]}
+{"kind":"textbox","id":"sh/2p8nqxs7","slide":8,"text":"Create reusable Next.js components, responsive layouts and SEO configuration.","textPreview":"Create reusable Next.js components, responsive layouts and SEO configuration.","textChars":77,"textLines":1,"bbox":[318,402,534,38]}
+{"kind":"shape","id":"sh/9gr2p8nq","slide":8,"bbox":[76,454,778,1]}
+{"kind":"textbox","id":"sh/gvy90je9","slide":8,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[76,472,44,24]}
+{"kind":"textbox","id":"sh/r2p8nqxs","slide":8,"text":"Validate","textPreview":"Validate","textChars":8,"textLines":1,"bbox":[140,470,160,28]}
+{"kind":"textbox","id":"sh/2hwfyxob","slide":8,"text":"Test mobile and desktop behaviour, accessibility, performance and form flow.","textPreview":"Test mobile and desktop behaviour, accessibility, performance and form flow.","textChars":76,"textLines":1,"bbox":[318,472,534,38]}
+{"kind":"shape","id":"sh/94fu18jq","slide":8,"bbox":[76,524,778,1]}
+{"kind":"textbox","id":"sh/kjm1cfa9","slide":8,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[76,542,44,24]}
+{"kind":"textbox","id":"sh/rqd4vmtw","slide":8,"text":"Launch","textPreview":"Launch","textChars":6,"textLines":1,"bbox":[140,540,160,28]}
+{"kind":"textbox","id":"sh/25kb6xkf","slide":8,"text":"Review preview deployment, approve production release and monitor analytics.","textPreview":"Review preview deployment, approve production release and monitor analytics.","textChars":76,"textLines":1,"bbox":[318,542,534,38]}
+{"kind":"shape","id":"sh/a5gbq1or","slide":8,"bbox":[76,594,778,1]}
+{"kind":"shape","id":"sh/3m94fu18","slide":8,"bbox":[896,344,308,224]}
+{"kind":"textbox","id":"sh/s72x4nap","slide":8,"text":"Approval requested","textPreview":"Approval requested","textChars":18,"textLines":1,"bbox":[924,374,240,30]}
+{"kind":"shape","id":"sh/lszqtcj6","slide":8,"bbox":[924,418,52,4]}
+{"kind":"textbox","id":"sh/adsji5sn","slide":8,"text":"Proceed with the website build plan and nominate final WhatsApp, Telegram and social destinations.","textPreview":"Proceed with the website build plan and nominate final WhatsApp, Telegram and social destinations.","textChars":98,"textLines":1,"bbox":[924,444,236,82]}
+{"kind":"textbox","id":"sh/3ylc7u54","slide":8,"text":"CONTACT","textPreview":"CONTACT","textChars":7,"textLines":1,"bbox":[924,590,100,18]}
+{"kind":"textbox","id":"sh/sji5snel","slide":8,"text":"Comwerkz Technology P.L.\n18 Boon Lay Way, Tradehub 21\n#02-137, #03-123, #05-131\nSingapore 609966","textPreview":"Comwerkz Technology P.L. | 18 Boon Lay Way, Tradehub 21 | #02-137, #03-123, #05-131 | Singapore 609966","textChars":96,"textLines":4,"bbox":[924,616,250,58]}
+{"kind":"shape","id":"sh/h4byhgn2","slide":8,"bbox":[76,678,1128,1]}
+{"kind":"textbox","id":"sh/ap4r65wj","slide":8,"text":"COMWERKZ  |  WEBSITE BUILD PROPOSAL","textPreview":"COMWERKZ  |  WEBSITE BUILD PROPOSAL","textChars":35,"textLines":1,"bbox":[76,690,360,18]}
+{"kind":"textbox","id":"sh/za1gvy90","slide":8,"text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1164,688,40,18]}
+{"kind":"notes","id":"nt/ahcz7t","slide":8,"text":""}
