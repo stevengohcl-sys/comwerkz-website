@@ -8,8 +8,9 @@ on:
     - cron: "23 3 * * 1"
 
 permissions:
+  actions: read
   contents: read
-  security-events: write
+  security-events: read
 
 jobs:
   analyze:
@@ -17,15 +18,26 @@ jobs:
     timeout-minutes: 20
     steps:
       - name: Check out repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Initialize CodeQL
-        uses: github/codeql-action/init@v3
+        uses: github/codeql-action/init@v4
         with:
           languages: javascript-typescript
 
       - name: Build website
-        uses: github/codeql-action/autobuild@v3
+        uses: github/codeql-action/autobuild@v4
 
       - name: Analyze code
-        uses: github/codeql-action/analyze@v3
+        uses: github/codeql-action/analyze@v4
+        with:
+          output: codeql-results
+          upload: never
+          upload-database: false
+
+      - name: Preserve CodeQL results
+        uses: actions/upload-artifact@v6
+        with:
+          name: codeql-results
+          path: codeql-results
+          retention-days: 14
